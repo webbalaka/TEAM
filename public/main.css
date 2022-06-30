@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+
+body {
+    width: 1440px;
+    height: 1489px;
+}
+
+.container {
+    /* border: solid black 3px;
+    background-color: white; */
+    margin-top: 110px;
+    margin-left: 243px;
+    margin-right: 265px;
+}
+
+header {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1 {
+    font-family: 'PT Serif';
+    font-weight: 700;
+    font-size: 36px;
+}
+
+header h2 {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+header p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+section {
+    margin-top: 96px;
+    height: 460px;
+}
+
+* h1 {
+    font-family: 'PT Serif';
+    text-transform: uppercase;
+}
+
+section h1 {
+    transform: rotate(90deg);
+    position: absolute;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.fig1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box1 {
+    width: 264px;
+    height: 425px;
+    margin-right: 93px;
+}
+
+.box1 h1 {
+    transform: rotate(90deg);
+    position: absolute;
+    left: 440px;
+    top: 350px;
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+
+.box2 {
+    margin-top: 100px;
+    width: 238px;
+    height: 425px;
+    margin-right: 93px
+}
+
+.box2 h1 {
+    transform: rotate(90deg);
+    position: absolute;
+    font-weight: 400;
+    font-size: 12px;
+    top: 460px;
+    left: 810px;
+}
+
+
+.box3 {
+    width: 238px;
+    height: 425px;
+}
+
+.box3 h1 {
+    transform: rotate(90deg);
+    position: absolute;
+    font-weight: 400;
+    font-size: 12px;
+    left: 1160px;
+    top: 350px;
+}
+
+
+.fig2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fig2 h1 {
+    font-weight: 400;
+    font-size: 12px;
+}
+.fig2 p {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.box4 {
+    width: 237px;
+    height: 341px;
+}
+
+.box4 h1 {
+    top: 880px;
+    left: 460px;
+}
+
+.box5 {
+    margin-top: 100px;
+    width: 237px;
+    height: 341px;
+}
+
+.box5 h1 {
+    top: 980px;
+    left: 810px;
+}
+
+.box6 {
+    width: 237;
+    height: 341;
+}
+
+.box6 h1 {
+    top: 880px;
+    left: 1160px;
+}
